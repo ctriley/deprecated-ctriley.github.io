@@ -1,0 +1,55 @@
+# Site settings
+title: Connor Riley
+email: your-email@domain.com
+url: https://example.github.io
+description: "description"
+skills: "PhD Student - Operations Research - Computer Science"
+meta_author: Riley Connor
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 2196F3 #2196F3
+  primary-rgb: "33,150,243" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Connor Riley
+  location: Location
+  social: Around the Web
+  credits: credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/connortriley
+  - title: github
+    url: http://github.com/ctriley
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 1205 Beal Ave. 
+  - line: Ann Arbor, MI 48109
+
+# Credits content
+credits: 'Developed using the Freelancer theme and Jekyll'
+# Build settings
+markdown: kramdown
+permalink: pretty

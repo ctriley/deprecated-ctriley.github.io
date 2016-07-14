@@ -1,0 +1,14 @@
+---
+layout: default
+type: project
+modal-id: 3
+date: 2016-05-01
+img: speakr.png
+alt: image-alt
+project-date: May 2015
+client: Mike Morton, Viren Shinde, Drew Paganetti
+category: Android App/Networking
+caption: Synchronizing Audio Between Phones
+description: Coming Soon
+
+---

@@ -1,0 +1,14 @@
+---
+layout: default
+type: blog
+modal-id: 1
+date: 2016-05-01
+img: speakr.png
+alt: image-alt
+project-date: May 2015
+client: Mike Morton, Viren Shinde, Drew Paganetti
+category: Android App/Networking
+caption: Test Post
+description: Coming Soon
+
+---

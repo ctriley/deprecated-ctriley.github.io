@@ -1,0 +1,30 @@
+
+    <!-- Blog Posts Section -->
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Blog Posts</h2>
+                    <p> Under construction </p>
+                    <!-- hr class="star-primary" -->
+                </div>
+            </div>
+            <div class="row">
+                {% for post in site.posts %}
+                    {% if post.type contains 'blog' %}
+                        <div class="col-sm-4 portfolio-item">
+                            <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                                <div class="caption">
+                                    <div class="caption-content">
+                                        <i class="fa fa-search-plus fa-3x"></i>
+                                    </div>
+                                </div>
+                                <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            </a>
+                            <p>{{ post.caption }}</p>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </section>
