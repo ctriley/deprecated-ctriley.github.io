@@ -24,11 +24,11 @@ description: "
 <h4><em>Lazarus</em> — David Bowie</h4>
 <p>My favorite track off of Bowie’s final album. Lazarus sees Bowie dealing with his life’s end and the terror that he faces in his final days. It is eerie but at the same time beautiful as he tries to persuade himself that with death comes freedom. For listeners the jazz backing inspires freedom, mourning, and finality.</p>
 
-<h4><em>I Need You</em> — Skeleton Tree</h4>
+<h4><em>I Need You</em> — Nick Cave and the Bad Seeds</h4>
 <p>Another track that might be higher if I could bare to listen to it more often, <em>I Need You</em> is a father desperately trying to deal with the death of his son. The anguish in Cave's voice more than makes up for the songs reliance on cliche lyrics like 'I Need You' and 'Nothing Really Matters' and the result is heartbreaking. </p>
 
 <h4><em>8 Circle</em> — Bon Iver</h4>
-<p>The most complete track on <em>22, a Million</em> with a nice build and a great use of vocal effects. Admittedly, this track is probably the most similar to Bon Ives’s prior work, but I think it is also one of most immediate tracks on an album that often keeps the listener at an arms-length.</p>
+<p>The most complete track on <em>22, a Million</em> with a nice build and a great use of vocal effects. Admittedly, this track is probably the most similar to Bon Iver’s prior work, but I think it is also one of most immediate tracks on an album that often keeps the listener at an arms-length.</p>
 
 <h4><em>Don’t Touch My Hair</em> — Solange</h4>
 <p>Putting this over <em>Cranes in the Sky</em> will probably draw ire from many, but the fact remains I like this track more. I enjoy hearing the pride in Solange’s voice and the rejection of the microagressions and racist remarks that are often directed at black women.</p>

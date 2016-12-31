@@ -13,13 +13,13 @@ description: "
 <p>Radiohead’s best album since <em>Kid A</em>, A Moon Shaped Pool blends the personal and political more effortlessly than any album on this list. The album addresses both Yorke’s separation from his partner of 23 years and the political ramifications of the nationalistic trend sweeping Europe and the Americas. This is an album of understatement, one with depth that only presents itself after multiple listens, hidden behind the beauty of Greenwood’s arrangements and Yorke’s vocals.</p>
 
 <h4><em>Blonde</em> — Frank Ocean</h4>
-<p><em>Blonde</em> has Frank’s best moments, but is less cohesive than his previous projects and leaves the listeners with more questions than answers. However, the tracks are masterfully executed. From the first note Ocean creates a mood that is maintained throughout as he reflects on the past with mixed emotions: part regret, sadness, fondness and distain.</p>
+<p><em>Blonde</em> has Frank’s best moments, but is less cohesive than his previous projects and leaves the listeners with more questions than answers. However, the tracks are masterfully executed. From the first note Ocean creates a mood that is maintained throughout as he reflects on the past with mixed emotions: part regret, sadness, fondness and disdain.</p>
 
 <h4><em>Teens of Denial</em> — Car Seat Headrest</h4>
 <p>Will Toledo knows he hasn’t lived enough to already be judging life, yet he does just that. A walking contradiction, Toledo has absolutely nothing figured out. He spends the first half of the record trying, and failing to get his life together, until eventually giving up. Throughout Toledo crafts one of the most exciting rock albums I’ve heard in a long time, with tracks that frequently morph through many sounds — it’s Pavement meets rock opera, and its glorious.</p>
 
 <h4><em>Blackstar</em> — David Bowie</h4>
-<p>David Bowie’s knew he was dying and recorded his musings about his own mortality. Blackstar is unsettling, the sound of a man not ready to die, fearful that all that remains is the void. But it is also an album full of life — Bowie finally recorded an album with a jazz band and the result is just as wonderful as we always imaged.</p>
+<p>Blackstar is unsettling, the sound of a man not ready to die, fearful that all that remains is the void. But it is also an album full of life — Bowie finally recorded an album with a jazz band and the result is just as wonderful as we always imaged.</p>
 
 <h4><em>22, A Million</em> — Bon Iver</h4>
 <p>Justin Vernon takes his sound to a new level on <em>22, A Million</em>. However, in doing so, he keeps himself at am arms length from the listener, obscuring his voice with electronic effects. Despite this, Vernon manages to craft an emotional ride, full of musings on religion and his own life.</p>
@@ -37,6 +37,7 @@ description: "
 <p>An album full of songs that ring with the pain of losing a son, <em>Skeleton Tree</em> is hard to listen to at times, but the empathy it evokes is worth it.</p>
 
 <h4><em>Cardinal</em> - Pinegrove</h4>
+<p>This album clocks in at just under 31 minutes, just long enough to make you invested in the narrative, but not too long to become boring or repetitive. Pinegrove isn’t the most original sounding band of the year, but this album is exciting and cohesive.</p>
 "
 
 ---
