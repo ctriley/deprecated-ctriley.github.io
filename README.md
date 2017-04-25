@@ -1,3 +1,10 @@
+
+To test:
+jekyll buiild
+jekyll serve
+
+
+
 Freelancer Jekyll theme
 =========================
 
